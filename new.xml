@@ -1,0 +1,9 @@
+<Person>
+    <Name>Tatiana</Name>
+    <Surname>Koneva</Surname>
+    <Age>33</Age>
+    <Pets>
+        <Pet>Cat</Pet>
+    </Pets>
+    <Salary>150000RUR</Salary>
+</Person>    
